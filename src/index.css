@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255, 255, 255, 0.15) transparent;
+}
+
+html {
+  background: #0a0e14;
+}
+
+body {
+  margin: 0;
+  background: #0a0e14;
+  color: #f0f2f7;
+  font-family: "Inter", sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.high-contrast * {
+  color: #ffffff !important;
+}
+.high-contrast a {
+  text-decoration: underline !important;
+}

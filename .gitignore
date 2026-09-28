@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+
+# Production build
+/dist
+
+# Local env files
+.env
+.env.*
+!.env.example
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Cache and editor folders
+.cache/
+.parcel-cache/
+.vite/
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+Desktop.ini
+
+# Optional: test coverage
+coverage/
+
+# Optional: local generated files
+*.local
