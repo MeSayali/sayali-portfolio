@@ -1,53 +1,133 @@
 # Sayali Pawar — Portfolio
 
-A personal portfolio built with React, Vite, Tailwind CSS, Framer Motion, GSAP-ready structure, and Lenis smooth scrolling.
+> Software Engineer | Backend Developer | Problem Solver
 
-## Run locally
+Welcome to my personal portfolio website.  
+This portfolio showcases my skills, projects, experience, and technical journey as a Computer Engineering student and aspiring Software Engineer.
 
-```bash
-npm install
-npm run dev
-```
+## 🌐 Live Portfolio
 
-Then open the local URL it prints (usually http://localhost:5173).
+[View My Portfolio](LIVE_DEMO_URL)
 
-## Build for production
+## 👩‍💻 About Me
 
-```bash
-npm run build
-npm run preview   # optional: preview the production build locally
-```
+I am a Computer Engineering student passionate about building useful software and solving real-world problems.
 
-The build output goes to the `dist/` folder.
+I enjoy working with backend development, databases, APIs, and problem solving. I am continuously improving my skills in Data Structures & Algorithms, Software Development, and System Design.
 
-## Deploy to Vercel (fastest option)
+## 🛠️ Tech Stack
 
-**Option A — no install needed, drag and drop:**
-1. Run `npm run build` locally to generate the `dist/` folder.
-2. Go to https://vercel.com/new, sign in (free), and choose "Deploy" → drag the `dist` folder onto the page.
-3. Vercel gives you a live `.vercel.app` link in under a minute.
+### Languages
+- Java
+- C++
+- C
+- Python
+- JavaScript
+- SQL
 
-**Option B — via the Vercel CLI (recommended for future updates):**
-```bash
-npm install -g vercel
-vercel login
-vercel
-```
-Follow the prompts (accept the defaults — Vercel auto-detects Vite). Every time you run `vercel --prod` afterward, it redeploys your latest changes.
+### Frontend
+- React.js
+- HTML
+- CSS
+- Tailwind CSS
+- Vite
 
-**Option C — GitHub + Vercel (best for ongoing edits):**
-1. Push this folder to a new GitHub repository.
-2. Go to https://vercel.com/new and import that repository.
-3. Vercel auto-detects the Vite framework preset — just click Deploy.
-4. Every future `git push` automatically redeploys the live site.
+### Backend
+- Node.js
+- Express.js
+- FastAPI
+- REST APIs
 
-## Things to fill in before you publish
+### Databases
+- MySQL
+- PostgreSQL
+- MongoDB
 
-- `src/data/content.js` — two featured projects (A11yView, FacultyDesk) have empty `github` and `demo` fields marked `// TODO`. Add your repository/demo URLs there.
-- `public/Sayali_Pawar_Resume.pdf` — replace this file any time you update your resume; the filename must stay the same, or update the reference in `src/data/content.js` (`resumeFile`).
-- Tech icons live in `src/assets/icons/` — swap these if you want different logos.
+### Tools & Technologies
+- Git
+- GitHub
+- VS Code
+- Postman
+- n8n
+- Docker
 
-## Notes
+## 🚀 Featured Projects
 
-- The Contact section intentionally has no message form (removed per request) — it links directly to email, phone, GitHub, and LinkedIn.
-- `@emailjs/browser` is included in dependencies in case you want to add a working contact form back in later; it isn't wired into any component currently.
+### MeetTrack — Automated Meeting Outcome Tracker
+
+An AI-powered meeting management system that processes meeting recordings/transcripts and extracts actionable tasks.
+
+**Tech:** Python, FastAPI, PostgreSQL, Whisper, spaCy, Regex, n8n
+
+**Key Features:**
+- Meeting transcript processing
+- Automatic action-item extraction
+- Task assignment and deadlines
+- Pending/Completed task tracking
+- Automated notification workflow
+
+### PashuSwasthDoot
+
+A rural livestock healthcare platform designed to connect farmers with veterinary doctors.
+
+**Tech:** Node.js, Express.js, MongoDB, JavaScript
+
+**Key Features:**
+- Farmer and veterinary doctor interaction
+- Animal health information
+- Veterinary assistance
+- Backend APIs and database management
+
+## 💼 Experience
+
+### AWS Cloud Club PICT
+**Project Lead / Research Intern**
+
+Worked on MeetTrack, an automated meeting outcome tracking system focused on NLP, automation, and backend development.
+
+### Compilers Technology
+**Advanced Java Intern**
+
+Worked on a Java Swing desktop application using JDBC and MySQL for college staff management.
+
+## 🧠 Problem Solving
+
+I regularly practice Data Structures & Algorithms and work on problems involving:
+
+- Arrays
+- Strings
+- Hashing
+- Sorting
+- Binary Search
+- Stack & Queue
+- Linked Lists
+- Trees
+- Dynamic Programming
+- Problem-solving patterns
+
+## 🎓 Education
+
+**Pune Institute of Computer Technology (PICT)**  
+B.E. — Computer Engineering  
+2024 – 2027
+
+**Government Polytechnic, Amravati**  
+Diploma — Computer Engineering  
+2021 – 2024
+
+## 📫 Connect With Me
+
+- GitHub
+- LinkedIn
+- LeetCode
+- Email
+
+You can find all my professional links and contact information on my portfolio.
+
+## ⭐ Portfolio
+
+If you find my work interesting, feel free to explore my projects and connect with me.
+
+---
+
+Made with ❤️ by Sayali Pawar
