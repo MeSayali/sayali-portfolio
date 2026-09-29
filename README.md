@@ -7,7 +7,7 @@ This portfolio showcases my skills, projects, experience, and technical journey 
 
 ## 🌐 Live Portfolio
 
-[View My Portfolio](LIVE_DEMO_URL)
+[View My Portfolio](https://sayali-portfolio-alpha.vercel.app/)
 
 ## 👩‍💻 About Me
 
